@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "368410771881",
+    "firebase_url": "https://rupeevest-22ea2.firebaseio.com",
+    "project_id": "rupeevest-22ea2",
+    "storage_bucket": "rupeevest-22ea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368410771881:android:8aee3e7148daddaf",
+        "android_client_info": {
+          "package_name": "com.rupeevest.httpswww.rupeevest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368410771881-hu0oki0hs2k4ml996cafbq40gpsobdd8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rupeevest.httpswww.rupeevest",
+            "certificate_hash": "569a4fb10ecea041f3712570285cc95f7bf6edfe"
+          }
+        },
+        {
+          "client_id": "368410771881-mtql9b6rnppj5fkuv6355496dsfe3gjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdBWQQdcUn64lDz-605i-eSUJMJvm8CB8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368410771881-mtql9b6rnppj5fkuv6355496dsfe3gjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
